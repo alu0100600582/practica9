@@ -33,12 +33,17 @@ La jerarquía de clases propuesta será la siguiente:
 Superclase abstracta Matriz, de la cual heredan los métodos:
 
 mostrar
+
 +
+
 -
+
 *
+
 Clases derivadas:
 
 MatrizDensa
+
 MatrizDispersa
 
 Ambas clases heredan de la superclase Matriz, y redefinen los métodos anteriormente especificados.
