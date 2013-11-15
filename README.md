@@ -32,13 +32,13 @@ La jerarquía de clases propuesta será la siguiente:
 
 Superclase abstracta Matriz, de la cual heredan los métodos:
 
-mostrar
+"mostrar"
 
-+
+"+"
 
--
+"-"
 
-*
+"*"
 
 Clases derivadas:
 
