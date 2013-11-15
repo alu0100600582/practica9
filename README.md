@@ -1,6 +1,6 @@
 # GemaMatriz
 
-TODO: Gema para la implementación de matrices dispersas y densas, junto con las operaciones aritméticas más significativas.
+Gema para la implementación de matrices dispersas y densas, junto con las operaciones aritméticas más significativas.
 
 ## Installation
 
