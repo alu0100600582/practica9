@@ -40,4 +40,5 @@ Clases derivadas:
 
 MatrizDensa
 MatrizDispersa
+
 Ambas clases heredan de la superclase Matriz, y redefinen los métodos anteriormente especificados.
