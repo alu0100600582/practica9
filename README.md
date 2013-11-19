@@ -1,6 +1,6 @@
 # GemaMatriz
 
-TODO: Gema para la implementación de matrices dispersas y densas, junto con las operaciones aritméticas más significativas.
+Gema para la implementación de matrices dispersas y densas, junto con las operaciones aritméticas más significativas.
 
 ## Installation
 
@@ -32,12 +32,18 @@ La jerarquía de clases propuesta será la siguiente:
 
 Superclase abstracta Matriz, de la cual heredan los métodos:
 
-mostrar
-+
--
-*
+"mostrar"
+
+"+"
+
+"-"
+
+"*"
+
 Clases derivadas:
 
 MatrizDensa
+
 MatrizDispersa
+
 Ambas clases heredan de la superclase Matriz, y redefinen los métodos anteriormente especificados.
