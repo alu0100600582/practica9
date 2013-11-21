@@ -1,4 +1,4 @@
-require "prac09/fraccion.rb"
+require "GemaMatriz/fraccion.rb"
   
 describe Fraccion do #espectativa para la clase
         ##

@@ -1,4 +1,4 @@
-require 'prac09.rb'
+require 'GemaMatriz.rb'
 require 'test/unit'
 
 class Test_Matrices < Test::Unit::TestCase

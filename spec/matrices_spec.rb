@@ -1,5 +1,5 @@
 
-require 'prac09.rb'
+require 'GemaMatriz.rb'
 
 describe Matriz do
 

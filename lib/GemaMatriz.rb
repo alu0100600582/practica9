@@ -1,8 +1,8 @@
-require "GemaMatriz/version"
+require "GemaMatriz/version.rb"
 
 module GemaMatriz
-require "prac09/fraccion"
-require "prac09/matriz"
-require "prac09/matrizdispersa"
-require "prac09/matrizdensa"
+require "GemaMatriz/fraccion.rb"
+require "GemaMatriz/matriz.rb"
+require "GemaMatriz/matrizdispersa.rb"
+require "GemaMatriz/matrizdensa.rb"
 end
